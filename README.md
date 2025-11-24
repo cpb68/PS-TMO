@@ -1,8 +1,16 @@
 # A Perceptually Optimized and Self-Calibrated Tone Mapping Operator
 
-##Introduction
+## Introduction
 This repository contains the official implementation of the paper [A Perceptually Optimized and Self-Calibrated Tone Mapping Operator](https://ieeexplore.ieee.org/document/10982125) by Peibei Cao, Chenyang Le, Yuming Fang, and Kede Ma, IEEE Transactions on Visualization and Computer Graphics, 2024.
 
+## Prerequisites
+• Python = 3.5.2
+• PyTorch >= 0.4.1
+• torchvision >= 0.2.1
+
+## Train
+
+## Test
 
 ## Citation
 ```
