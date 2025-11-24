@@ -5,7 +5,9 @@ This repository contains the official implementation of the paper [A Perceptuall
 
 ## Prerequisites
 • Python = 3.5.2
+
 • PyTorch >= 0.4.1
+
 • torchvision >= 0.2.1
 
 ## Train
